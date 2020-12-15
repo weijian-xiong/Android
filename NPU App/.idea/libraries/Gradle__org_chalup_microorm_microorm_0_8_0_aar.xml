@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.chalup.microorm:microorm:0.8.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/873391d960d61216b5d39fda681505a6/jetified-microorm-0.8.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/873391d960d61216b5d39fda681505a6/jetified-microorm-0.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/873391d960d61216b5d39fda681505a6/jetified-microorm-0.8.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.chalup.microorm/microorm/0.8.0/e96edd59edc7b7f89b2e19f6391a7aa7d5ba7490/microorm-0.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.chalup.microorm/microorm/0.8.0/223e299ec8cff07715be958e295bb946eb241bce/microorm-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
