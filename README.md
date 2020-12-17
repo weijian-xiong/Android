@@ -1,3 +1,4 @@
 # Android Development
- NPU App: Northwestern Polytechnic University student portal
+## NPU App: 
+- Used Java in Android Studio to create a Northwestern Polytechnic University student portal which inlucdes course schedule, grades, calender, chat bot and notification features.
 
