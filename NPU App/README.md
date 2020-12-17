@@ -28,15 +28,15 @@ Student Profile:<br>
 ![Picture6](https://user-images.githubusercontent.com/24274444/102444974-0431b700-3ff0-11eb-998f-253ff752e72d.png)
 
 Course Schedule:<br>
-![Picture7](https://user-images.githubusercontent.com/24274444/102444976-04ca4d80-3ff0-11eb-8859-c3a34e78c8a0.png)<br>
+![Picture7](https://user-images.githubusercontent.com/24274444/102444976-04ca4d80-3ff0-11eb-8859-c3a34e78c8a0.png)
 ![Picture8](https://user-images.githubusercontent.com/24274444/102444979-0562e400-3ff0-11eb-9808-49eebe2d94da.png)
 
 Week Detail:<br>
-![Picture9](https://user-images.githubusercontent.com/24274444/102444961-01cf5d00-3ff0-11eb-82f9-23101a51fa57.png)<br>
+![Picture9](https://user-images.githubusercontent.com/24274444/102444961-01cf5d00-3ff0-11eb-82f9-23101a51fa57.png)
 ![Picture10](https://user-images.githubusercontent.com/24274444/102444959-0136c680-3ff0-11eb-949c-515cd758bda7.png)
 
 Grades:<br>
-![Picture11](https://user-images.githubusercontent.com/24274444/102444960-01cf5d00-3ff0-11eb-9b94-acbe2b30a375.png)<br>
+![Picture11](https://user-images.githubusercontent.com/24274444/102444960-01cf5d00-3ff0-11eb-9b94-acbe2b30a375.png)
 ![Picture12](https://user-images.githubusercontent.com/24274444/102444963-0267f380-3ff0-11eb-8985-be5870c68ff8.png)
 
 Course Material:<br>
