@@ -1,6 +1,5 @@
 # NPU App
-Android mobile app for NPU student portal<img width="170" alt="Screen Shot 2020-12-16 at 10 53 11 PM" src="https://user-images.githubusercontent.com/24274444/102445617-853d7e00-3ff1-11eb-8079-9500b2cccd24.png">
-
+Android mobile app for NPU student portal<img width="167" alt="p1" src="https://user-images.githubusercontent.com/24274444/102446055-88853980-3ff2-11eb-86cf-35121624ba28.png">
 
 ## Features
 1: Course Schedule<br>
@@ -23,19 +22,22 @@ Drawer:<br>
 <img width="248" alt="p4" src="https://user-images.githubusercontent.com/24274444/102445923-3b08cc80-3ff2-11eb-9938-17ed49c6f307.png">
 
 Home Page:<br>
-![Picture5](https://user-images.githubusercontent.com/24274444/102444972-0431b700-3ff0-11eb-93fc-04087f7793f3.png)
+<img width="250" alt="p5" src="https://user-images.githubusercontent.com/24274444/102446391-4b6d7700-3ff3-11eb-8ada-834c263f506f.png">
 
 Student Profile:<br>
-![Picture6](https://user-images.githubusercontent.com/24274444/102444974-0431b700-3ff0-11eb-998f-253ff752e72d.png)
+<img width="203" alt="p6" src="https://user-images.githubusercontent.com/24274444/102446409-54f6df00-3ff3-11eb-9540-f26504df18bd.png">
 
 Course Schedule:<br>
-![Picture7](https://user-images.githubusercontent.com/24274444/102444976-04ca4d80-3ff0-11eb-8859-c3a34e78c8a0.png)![Picture8](https://user-images.githubusercontent.com/24274444/102444979-0562e400-3ff0-11eb-9808-49eebe2d94da.png)
+<img width="251" alt="p7" src="https://user-images.githubusercontent.com/24274444/102446410-558f7580-3ff3-11eb-8aea-12ceafe5ff9a.png">
+<img width="266" alt="p8" src="https://user-images.githubusercontent.com/24274444/102446412-558f7580-3ff3-11eb-9040-7f14d3604862.png">
 
 Week Detail:<br>
-![Picture9](https://user-images.githubusercontent.com/24274444/102444961-01cf5d00-3ff0-11eb-82f9-23101a51fa57.png)![Picture10](https://user-images.githubusercontent.com/24274444/102444959-0136c680-3ff0-11eb-949c-515cd758bda7.png)
+<img width="255" alt="p9" src="https://user-images.githubusercontent.com/24274444/102446413-56280c00-3ff3-11eb-8f01-86ede9404e90.png">
+<img width="268" alt="p10" src="https://user-images.githubusercontent.com/24274444/102446414-56280c00-3ff3-11eb-9538-63784d6619dc.png">
 
 Grades:<br>
-![Picture11](https://user-images.githubusercontent.com/24274444/102444960-01cf5d00-3ff0-11eb-9b94-acbe2b30a375.png)![Picture12](https://user-images.githubusercontent.com/24274444/102444963-0267f380-3ff0-11eb-8985-be5870c68ff8.png)
+<img width="254" alt="p11" src="https://user-images.githubusercontent.com/24274444/102446417-56280c00-3ff3-11eb-9cdf-5cdec0a4bc39.png">
+<img width="251" alt="p12" src="https://user-images.githubusercontent.com/24274444/102446418-56c0a280-3ff3-11eb-9689-5e8bc0edc056.png">
 
 Course Material:<br>
 ![Picture13](https://user-images.githubusercontent.com/24274444/102444965-0267f380-3ff0-11eb-9e0c-675fa74cc919.png)![Picture14](https://user-images.githubusercontent.com/24274444/102444966-03008a00-3ff0-11eb-8877-ba38ff9ee221.png)
