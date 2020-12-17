@@ -14,7 +14,7 @@ Send reset password verification email and store course material
 
 ## App ScreenShot
 Login Page:<br>
-![Picture2](https://user-images.githubusercontent.com/24274444/102444968-03992080-3ff0-11eb-9eeb-68dd5b6b6294.png)
+<img width="227" alt="p2" src="https://user-images.githubusercontent.com/24274444/102445763-e5ccbb00-3ff1-11eb-9bc9-85b1c92fe20a.png">
 
 Reset Password:<br>
 ![Picture3](https://user-images.githubusercontent.com/24274444/102444969-03992080-3ff0-11eb-8e0a-852474da7cbd.png)
