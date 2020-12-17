@@ -1,5 +1,5 @@
 # NPU App
-Android mobile app for NPU student portal<img width="167" alt="p1" src="https://user-images.githubusercontent.com/24274444/102446055-88853980-3ff2-11eb-86cf-35121624ba28.png">
+Android mobile app for NPU student portal<img width="169" alt="p1" src="https://user-images.githubusercontent.com/24274444/102446868-612f6c00-3ff4-11eb-8957-871d1396c19c.png">
 
 ## Features
 1: Course Schedule<br>
@@ -40,19 +40,22 @@ Grades:<br>
 <img width="251" alt="p12" src="https://user-images.githubusercontent.com/24274444/102446418-56c0a280-3ff3-11eb-9689-5e8bc0edc056.png">
 
 Course Material:<br>
-![Picture13](https://user-images.githubusercontent.com/24274444/102444965-0267f380-3ff0-11eb-9e0c-675fa74cc919.png)![Picture14](https://user-images.githubusercontent.com/24274444/102444966-03008a00-3ff0-11eb-8877-ba38ff9ee221.png)
+<img width="235" alt="p13" src="https://user-images.githubusercontent.com/24274444/102446869-62609900-3ff4-11eb-9aaf-25e3e9343342.png">
+<img width="235" alt="p14" src="https://user-images.githubusercontent.com/24274444/102446870-62609900-3ff4-11eb-813e-f173a3afa75a.png">
 
 Chat Bot:<br>
-![Picture15](https://user-images.githubusercontent.com/24274444/102444967-03008a00-3ff0-11eb-9979-aed69e944814.png)
+<img width="271" alt="p15" src="https://user-images.githubusercontent.com/24274444/102446872-62f92f80-3ff4-11eb-86ab-916196aac4d6.png">
 
 Calender:<br>
-![Picture16](https://user-images.githubusercontent.com/24274444/102444978-0562e400-3ff0-11eb-92c7-3f5455d4846d.png)
+<img width="271" alt="p16" src="https://user-images.githubusercontent.com/24274444/102446873-6391c600-3ff4-11eb-8885-dbaf3e183819.png">
 
 Notification:<br>
-![Picture17](https://user-images.githubusercontent.com/24274444/102444955-009e3000-3ff0-11eb-8dbf-0d3c731d8bcd.png)![Picture18](https://user-images.githubusercontent.com/24274444/102444957-0136c680-3ff0-11eb-9f38-f9c6f85d257c.png)
+<img width="255" alt="p17" src="https://user-images.githubusercontent.com/24274444/102446875-642a5c80-3ff4-11eb-88c2-7af3cd4cb134.png">
+<img width="270" alt="p18" src="https://user-images.githubusercontent.com/24274444/102446876-642a5c80-3ff4-11eb-9800-ec1c07042654.png">
 
 Setting:<br>
-![Picture19](https://user-images.githubusercontent.com/24274444/102444958-0136c680-3ff0-11eb-8ebf-3b3e7eb7d075.png)
+<img width="243" alt="p19" src="https://user-images.githubusercontent.com/24274444/102446878-64c2f300-3ff4-11eb-9860-976b3428bd11.png">
+
 
 
 ## Demo Video
