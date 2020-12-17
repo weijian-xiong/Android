@@ -35,13 +35,13 @@ Week Detail:<br>
 <img width="255" alt="p9" src="https://user-images.githubusercontent.com/24274444/102446413-56280c00-3ff3-11eb-8f01-86ede9404e90.png">
 <img width="268" alt="p10" src="https://user-images.githubusercontent.com/24274444/102446414-56280c00-3ff3-11eb-9538-63784d6619dc.png">
 
-Grades:<br>
-<img width="254" alt="p11" src="https://user-images.githubusercontent.com/24274444/102446417-56280c00-3ff3-11eb-9cdf-5cdec0a4bc39.png">
-<img width="251" alt="p12" src="https://user-images.githubusercontent.com/24274444/102446418-56c0a280-3ff3-11eb-9689-5e8bc0edc056.png">
-
 Course Material:<br>
 <img width="235" alt="p13" src="https://user-images.githubusercontent.com/24274444/102446869-62609900-3ff4-11eb-9aaf-25e3e9343342.png">
 <img width="235" alt="p14" src="https://user-images.githubusercontent.com/24274444/102446870-62609900-3ff4-11eb-813e-f173a3afa75a.png">
+
+Grades:<br>
+<img width="254" alt="p11" src="https://user-images.githubusercontent.com/24274444/102446417-56280c00-3ff3-11eb-9cdf-5cdec0a4bc39.png">
+<img width="251" alt="p12" src="https://user-images.githubusercontent.com/24274444/102446418-56c0a280-3ff3-11eb-9689-5e8bc0edc056.png">
 
 Chat Bot:<br>
 <img width="271" alt="p15" src="https://user-images.githubusercontent.com/24274444/102446872-62f92f80-3ff4-11eb-86ab-916196aac4d6.png">
