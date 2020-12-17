@@ -17,10 +17,10 @@ Login Page:<br>
 <img width="227" alt="p2" src="https://user-images.githubusercontent.com/24274444/102445763-e5ccbb00-3ff1-11eb-9bc9-85b1c92fe20a.png">
 
 Reset Password:<br>
-![Picture3](https://user-images.githubusercontent.com/24274444/102444969-03992080-3ff0-11eb-8e0a-852474da7cbd.png)
+<img width="288" alt="p3" src="https://user-images.githubusercontent.com/24274444/102445924-3ba16300-3ff2-11eb-8c37-e1c249fae3b1.png">
 
 Drawer:<br>
-![Picture4](https://user-images.githubusercontent.com/24274444/102444970-03992080-3ff0-11eb-83c5-d9ab2decf0d4.png)
+<img width="248" alt="p4" src="https://user-images.githubusercontent.com/24274444/102445923-3b08cc80-3ff2-11eb-9938-17ed49c6f307.png">
 
 Home Page:<br>
 ![Picture5](https://user-images.githubusercontent.com/24274444/102444972-0431b700-3ff0-11eb-93fc-04087f7793f3.png)
