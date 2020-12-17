@@ -8,5 +8,10 @@
 4: Notification<br>
 5: ChatBot<br>
 
+## Firebase
+Send reset password verification email and store course material
+
+## App ScreenShot
+
 ## Demo Video
 [YouTube Link](youtube.com/watch?v=MPq5Zpi9ioc&feature=youtu.be)
