@@ -1,5 +1,6 @@
 # NPU App
-Android mobile app for NPU student portal![Picture1](https://user-images.githubusercontent.com/24274444/102444975-04ca4d80-3ff0-11eb-89a6-e8a8f148393a.png)
+Android mobile app for NPU student portal<img width="170" alt="Screen Shot 2020-12-16 at 10 53 11 PM" src="https://user-images.githubusercontent.com/24274444/102445617-853d7e00-3ff1-11eb-8079-9500b2cccd24.png">
+
 
 ## Features
 1: Course Schedule<br>
